@@ -1,9 +1,9 @@
 # NumSound — Harmonic Sequence Synthesizer & Stereo Panorama (v1.1)
 ![NumSound Screenshot](screenshot.png) 
 
-**NumSound** è un sintetizzatore additivo e analizzatore acustico in tempo reale progettato per esplorare le sequenze di armonici naturali, la spazializzazione stereo, i temperamenti storici/matematici e i fenomeni di battimento tra due voci.
+**NumSound** è un sintetizzatore additivo e analizzatore acustico in tempo reale progettato per esplorare le sequenze di armonici naturali, la spazializzazione stereo, i temperamenti storici/matematici, i fenomeni di battimento tra due voci e la corrispondenza fisica tra i toni musicali e i toni luminosi che vibrano a 34 ottave più in alto, scoprendo che il rosso è un SOL, il verde è un DO, il giallo è un LA. Il sintetizzatore riceve segnali MIDI e può essere suonato in tempo reale.
 
-**NumSound** is a real-time additive synthesizer and acoustic analyzer designed to explore natural harmonic series, stereo panorama distribution, historical/mathematical temperaments, and beating phenomena between two voices.
+**NumSound** is a real-time additive synthesizer and acoustic analyzer designed to explore natural harmonic series, stereo panorama distribution, historical/mathematical temperaments, and beating phenomena between two voices and to explore the physical correspondence between musical tones and light tones that vibrate 34 octaves higher, discovering that red is a G, green is a C, and yellow is an A. The synthesizer receives MIDI and can be played in real time.
 
 ---
 
