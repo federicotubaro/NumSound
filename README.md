@@ -1,4 +1,5 @@
 # NumSound — Harmonic Sequence Synthesizer & Stereo Panorama (v1.1)
+![NumSound Screenshot](screenshot.png) 
 
 **NumSound** è un sintetizzatore additivo e analizzatore acustico in tempo reale progettato per esplorare le sequenze di armonici naturali, la spazializzazione stereo, i temperamenti storici/matematici e i fenomeni di battimento tra due voci.
 
